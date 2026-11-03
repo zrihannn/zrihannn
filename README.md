@@ -1,5 +1,5 @@
 
-# Yo, your so called ray (Rihan)
+# Yo, myself ray (Rihan)
 
 
 ### Computer Science Undergraduate | Developer | Creative Thinker | Procastinator
