@@ -1,5 +1,6 @@
 
-# Yo, myself ray (Rihan)
+# Yo
+Myself ray <img src="./rayquaza.png" width="50" / (Rihan)
 
 
 ### Computer Science Undergraduate | Developer | Creative Thinker | Procastinator
