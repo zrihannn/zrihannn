@@ -1,10 +1,15 @@
+<h1 align="center">
+  Hey, I'm Rihan
+</h1>
 
-# Yo
-Myself ray <img src="./rayquaza.png" width="50" / (Rihan)
+<h2 align="center">
+  <samp>-> preferably ray</samp>
+  <img src="./rayquaza.png" width="65" valign="middle" alt="Rayquaza"/>
+</h2>
 
-
-### Computer Science Undergraduate | Developer | Creative Thinker | Procastinator
-
+<p align="center">
+  Computer Science Undergraduate | Developer | Creative Thinker
+</p>
 
 I'm a Computer Science Engineering student qualified enough in building practical software, exploring AI, and developing efficient backend systems.
 
