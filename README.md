@@ -14,7 +14,13 @@
 I'm a Computer Science Engineering student qualified enough in building practical software, exploring AI, and developing efficient backend systems.
 
 - 🎓 B.Tech CSE Student
-- 💻 Fixated in Frontend Development & AI
+- 💻 Fixated in
+  • Web development
+  • AI/ML
+  • Agentic AI
+  • AI-based automations
+  • Vibe-coding
+  • DevOps
 - 🚀 Building projects that solve real-world problems
 - 🎨 Graphic Design & Video Editing (yeah as a hobby sometimes ig)
 
