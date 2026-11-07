@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  Computer Science Undergraduate | Developer | Procrastinator
+  Computer Science Engineer | Developer | Procrastinator
 </p>
 
 I'm a Computer Science Engineering student qualified enough in building practical software, exploring AI, and developing efficient backend systems.
