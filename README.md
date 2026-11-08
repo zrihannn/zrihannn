@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <samp>-> preferably ray</samp> 
+  <samp> -> preferably ray</samp> 
   <img src="./rayquaza.png" width="65" valign="middle" alt="Rayquaza"/> <-
 </h2>
 
